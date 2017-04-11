@@ -1,3 +1,5 @@
+ # Data Analysis and Visualization using Numpy, Pandas and Matplotlib
+ 
  These are some general projects to get started with Data Analysis and Visualizations with Python (Numpy, Pandas and Matplotlib) -> 
    
 1) Explore Gun Deaths in US - using basic Python. 
