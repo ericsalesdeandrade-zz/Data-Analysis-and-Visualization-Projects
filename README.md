@@ -10,4 +10,6 @@
   
 4) Analyzing Star Wars Survey Results to find the best most popular episode - Data Cleaning using Python with Pandas and Matplotlib.  
 
-5) Analyzing Movie Reviews from Fandango and Metacritic - Statistics and Data Analysis in Matplotlib, scipy.stats and Linear Regression.  
+5) Analyzing Movie Reviews from Fandango and Metacritic - Statistics and Data Analysis in Matplotlib, scipy.stats and Linear Regression.
+
+6) Predicting Car prices using K Nearest Neighbors in Scikit Learn  
